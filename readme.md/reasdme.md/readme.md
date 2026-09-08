@@ -4,9 +4,11 @@
 
 ## moduuli 1 ##
 
-Linkki laitettu opwttajalle!
+Linkki laitettu opettajalle!
 
 ## moduuli 2 ##
-Tein tehtävät 1,2,3,4
+Tein tehtävät 1,2,3,4,5,6
+
+## moduuli 03 ##
 
 
