@@ -10,5 +10,9 @@ Linkki laitettu opettajalle!
 Tein tehtävät 1,2,3,4,5,6
 
 ## moduuli 03 ##
+Tein tehtävät 1-4
+
+## Moduuli 04 ##
+Tein tehtävät 1-5
 
 
